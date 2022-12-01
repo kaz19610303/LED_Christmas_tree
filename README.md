@@ -14,6 +14,6 @@ KiKADデータは準備中
 https://nextstep.official.ec/  
   
 この基板の作成には [JLCPCB](https://jlcpcb.com/HAR) 様の支援を受けています。  
-なお現在 JLCPCD は**新規登録で$54クーポン進呈キャンペーン継続中**です。  
+なお現在 JLCPCB は**新規登録で$54クーポン進呈キャンペーン継続中**です。  
 
 
