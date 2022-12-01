@@ -1,4 +1,4 @@
-# LED_Christmas_tree
+# LED_Christmas_tree DIY kit
 ![IMG-0863](https://user-images.githubusercontent.com/14026974/204948355-86782698-227a-4605-a010-1e1e98c78678.jpg)
 3mm LED 36個と5mm LED1個を使った、LEDクリスマスツリー DIY キットです。  
 ご自身でハンダ付けする必要があります。  
